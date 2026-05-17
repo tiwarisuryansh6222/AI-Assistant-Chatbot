@@ -141,7 +141,7 @@ def generate_pdf_bytes(mode_name, messages):
 
 # ─── Page Config ──────────────────────────────────────────────────
 st.set_page_config(
-    page_title="AI Assistant",
+    page_title="Persona AI",
     page_icon="🤖",
     layout="centered"
 )
@@ -162,7 +162,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # ─── Header ───────────────────────────────────────────────────────
-st.markdown('<div class="title">🤖 AI Assistant</div>', unsafe_allow_html=True)
+st.markdown('<div class="title">🤖 Persona AI</div>', unsafe_allow_html=True)
 st.markdown('<div class="subtitle">Choose a mode and start chatting</div>', unsafe_allow_html=True)
 
 # ─── Sidebar ──────────────────────────────────────────────────────
