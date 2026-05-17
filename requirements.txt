@@ -1,0 +1,6 @@
+streamlit
+langchain
+langchain-mistralai
+langchain-core
+python-dotenv
+reportlab

@@ -1,0 +1,13 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+chat_history/
+1st_emo.py
+hugging_face.py
+terminal_chatbot.py
+terminal_chatbot.py
+uv.lock
+pyproject.toml
+.python-version
+main.py
